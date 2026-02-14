@@ -52,6 +52,7 @@
             <a href="#services" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Services</a>
             <a href="#framework" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Framework</a>
             <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Our Work</a>
+			<a href="#blog" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Blog</a>
             <a href="#faq" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">FAQs</a>
             <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
         </div>
@@ -170,7 +171,36 @@
             </div>
         </div>
     </div>
+	
+	<div class="w3-row-padding w3-padding-64 w3-container" id="blog">
+        <div class="w3-content">
+            <div class="w3-center w3-margin-bottom">
+                <h1>Resources & Blog</h1>
+                <h5 class="w3-padding-16">Insights, updates, and deep dives into the world of Data and AI Ethics.</h5>
+            </div>
+            
+            <div class="w3-row-padding">
+                <div class="w3-third w3-margin-bottom">
+                    <div class="w3-card w3-white">
+                        <img src="images/header1.jpg" alt="Blog Image" style="width:100%; height: 200px; object-fit: cover;">
+                        <div class="w3-container w3-padding-16">
+                            <h3><a href="blog-post-1.php" class="w3-text-deep-orange" style="text-decoration: none;">The Threat of AI Colonialism</a></h3>
+                            <p class="w3-opacity">February 14, 2026</p>
+                            <p>Why so much technology is developed abroad and what high adoption in the Philippines means for our sovereign AI.</p>
+                            <a href="blog-post-1.php"><button class="w3-button w3-black w3-margin-top">Read More</button></a>
+                        </div>
+                    </div>
+                </div>
 
+                </div>
+            
+            <div class="w3-center w3-padding-32">
+                <p><strong>Want these updates delivered to you?</strong></p>
+                <a href="YOUR_NEWSLETTER_LINK_HERE" target="_blank"><button class="w3-button w3-deep-orange w3-padding-large">Subscribe to our Newsletter</button></a>
+            </div>
+        </div>
+    </div>
+	
     <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container" id="faq">
         <div class="w3-content">
             <div class="w3-center w3-margin-bottom">
