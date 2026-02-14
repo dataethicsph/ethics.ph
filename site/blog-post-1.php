@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>The Threat of AI Colonialism - Data and AI Ethics PH</title>
+    <title>On the Proposed Ban of Messaging Platform ‘Signal’ in the Philippines</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -27,7 +27,7 @@
         <hr>
 
         <div class="w3-center w3-margin-top w3-margin-bottom">
-            <img src="images/SIGNAL ARTICLE IMAGE.jpg" alt="AI Colonialism" style="width:100%; max-width:800px; border-radius: 8px;">
+            <img src="images/SIGNAL ARTICLE IMAGE.jpg" alt="Photo to be placed here" style="width:100%; max-width:800px; border-radius: 8px;">
         </div>
 
         <div class="w3-large" style="line-height: 1.8;">
