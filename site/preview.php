@@ -191,7 +191,8 @@
                     </div>
                 </div>
             
-            <div class="w3-center w3-padding-32">
+			</div> <div style="clear: both;"></div>
+            <div class="w3-center w3-padding-32 w3-margin-top">
                 <p><strong>Want these updates delivered to you?</strong></p>
                 <a href="YOUR_NEWSLETTER_LINK_HERE" target="_blank"><button class="w3-button w3-deep-orange w3-padding-large">Subscribe to our Newsletter</button></a>
             </div>
