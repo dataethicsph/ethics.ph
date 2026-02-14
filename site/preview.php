@@ -176,7 +176,7 @@
         <div class="w3-content">
             <div class="w3-center w3-margin-bottom">
                 <h1>Resources & Blog</h1>
-                <h5 class="w3-padding-16">Insights, updates, and deep dives into the world of Data and AI Ethics.</h5>
+                <h5 class="w3-padding-16">Insights, updates, and deep dives into the world of data and AI ethics in the Philippines.</h5>
             </div>
             
             <div class="w3-row-padding">
