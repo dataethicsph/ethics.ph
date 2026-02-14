@@ -179,7 +179,7 @@
                 <h5 class="w3-padding-16">Insights, updates, and deep dives into the world of data and AI ethics in the Philippines.</h5>
             </div>
             
-          	<div class="w3-third w3-margin-bottom">
+          		<div class="w3-third w3-margin-bottom">
                     <div class="w3-card w3-white">
                         <img src="site/images/SIGNAL ARTICLE IMAGE.jpg" alt="Signal App on Phone" style="width:100%; height: 200px; object-fit: cover;">
                         <div class="w3-container w3-padding-16">
@@ -189,8 +189,6 @@
                             <a href="blog-post-1.php"><button class="w3-button w3-black w3-margin-top">Read More</button></a>
                         </div>
                     </div>
-                </div>
-
                 </div>
             
             <div class="w3-center w3-padding-32">
