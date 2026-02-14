@@ -179,14 +179,13 @@
                 <h5 class="w3-padding-16">Insights, updates, and deep dives into the world of data and AI ethics in the Philippines.</h5>
             </div>
             
-            <div class="w3-row-padding">
-                <div class="w3-third w3-margin-bottom">
+          	<div class="w3-third w3-margin-bottom">
                     <div class="w3-card w3-white">
-                        <img src="images/header1.jpg" alt="Blog Image" style="width:100%; height: 200px; object-fit: cover;">
+                        <img src="site/images/SIGNAL ARTICLE IMAGE.jpg" alt="Signal App on Phone" style="width:100%; height: 200px; object-fit: cover;">
                         <div class="w3-container w3-padding-16">
-                            <h3><a href="blog-post-1.php" class="w3-text-deep-orange" style="text-decoration: none;">The Threat of AI Colonialism</a></h3>
+                            <h3><a href="blog-post-1.php" class="w3-text-deep-orange" style="text-decoration: none;">Statement on the Proposed Signal Ban</a></h3>
                             <p class="w3-opacity">February 14, 2026</p>
-                            <p>Why so much technology is developed abroad and what high adoption in the Philippines means for our sovereign AI.</p>
+                            <p>Why restricting access to secure messaging sets a dangerous precedent for fundamental human rights in the digital sphere.</p>
                             <a href="blog-post-1.php"><button class="w3-button w3-black w3-margin-top">Read More</button></a>
                         </div>
                     </div>
